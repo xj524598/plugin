@@ -1,0 +1,8 @@
+com\clawhub\plugin\service\impl\PluginServiceImpl.class
+com\clawhub\plugin\core\PluginClassLoader.class
+com\clawhub\plugin\core\IoUtils.class
+com\clawhub\plugin\controller\PluginController.class
+com\clawhub\plugin\service\PluginService.class
+com\clawhub\plugin\init\PluginLoaderInit.class
+com\clawhub\plugin\PluginApplication.class
+com\clawhub\plugin\core\PluginManager.class
